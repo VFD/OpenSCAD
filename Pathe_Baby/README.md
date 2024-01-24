@@ -3,8 +3,9 @@
 
 ## Repository on Thingiverse
 
-Projects are also on the Thingiverse repository.
-URL...
+Projects are also on the Thingiverse repository.\
+https://www.thingiverse.com/thing:175305
+
 
 ## Liste of projects
 
